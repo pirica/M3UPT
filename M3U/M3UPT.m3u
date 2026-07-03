@@ -449,6 +449,9 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TraceToca.fr" tvg-logo="https://i.imgur.com/6SpWnBR.png",Trace Toca
 https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="TraceAfrica.fr" tvg-logo="https://i.imgur.com/kPUkoS7.png",Trace Africa
+https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="TraceBrasil.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Trace_Brasil.png",Trace Brasil
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 
@@ -457,6 +460,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsung
 
 #EXTINF:-1 group-title="TV" tvg-id="TraceUK.uk" tvg-logo="https://logos.fandom.com/wiki/Trace_UK?file=Trace-Uk.png",Trace UK
 https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TraceNaija.fr" tvg-logo="https://i.imgur.com/Rguekcp.png",Trace Naija
+https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TraceKitoko.fr" tvg-logo="https://i.imgur.com/q6vkMrU.png",Trace Kitoko
+https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TraceMiziki.fr" tvg-logo="https://i.imgur.com/l3X9Gg4.png",Trace Miziki
+https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TraceGospel.fr" tvg-logo="https://i.imgur.com/X0UmU3K.png",Trace Gospel
+https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="XITE.nl" tvg-logo="https://i.imgur.com/jxuwGRi.png",XITE
 https://xite-rakuten.amagi.tv/playlist.m3u8
