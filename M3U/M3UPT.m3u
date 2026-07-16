@@ -3779,14 +3779,14 @@ http://213.136.92.8:8022/;
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.marcoensefm.com/wp-content/themes/marcoense-fm/images/logo.png",Marcoense FM
 http://137.74.160.250:8000/;stream/1
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/tHi5ewx.png",Rádio Monsanto
-http://centova.radio.com.pt:9424/;
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://player.yesstreaming.com/uploads/logos/1727175050_53334890f450a92b45ef.jpg",Rádio Monsanto
+https://s9.yesstreaming.net:9029/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://www.radio.net/images/broadcasts/79/00/29566/1/c300.png",Rádio Montemuro
-http://46.105.172.166:9304/;audio.mp3
+https://shoutcast.htt.pt:8060/radio.mp3
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radionoar.pt/wp-content/uploads/2017/02/Radio-NoAr_156.png",Rádio NoAr
-http://centova.radio.com.pt:9472/;
+https://radios3.justweb.pt:8026/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://nove3cinco.pt/sv/wp-content/uploads/2015/05/Nove3Cinco-Menu-Logo.png",Nove3Cinco
 http://centova.radios.pt:9522/;
