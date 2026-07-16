@@ -169,7 +169,7 @@ Este leitor de IPTV simples também abre streams encriptados com DRM. Excelente 
 
 ### 🥈 ProgTV
 
-Este é um bom leitor para Android, mas não abre streams encriptados com DRM.
+Este é um bom leitor para Android, mas não abre streams encriptados com DRM. Curiosamente, este leitor consegue contornar o bloqueio geográfico dos canais SIC.
 
 ![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
 
@@ -212,7 +212,7 @@ Este é o leitor recomendado para computadores GNU/Linux.
 - Other - mpv options: --hwdec=auto --demuxer-lavf-o=cenc_decryption_key=a2226def4bc8f249de2daf36b7c12b1e
 - Debug - Automatic reconnection ✅
 
-[⬇️ Download](https://codeberg.org/liya/yuki-iptv)
+[⬇️ Download](https://snapcraft.io/yuki-iptv-unofficial)
 
 ---
 

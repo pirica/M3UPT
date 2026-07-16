@@ -147,7 +147,7 @@ This IPTV player also opens DRM encrypted streams.
 
 Settings - Playlists - M3UPT - Update interval, hours - 2
 
-[Google Play](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
+[Google Play](https://snapcraft.io/yuki-iptv-unofficial)
 
 ---
 
@@ -163,7 +163,7 @@ This simple IPTV player also opens DRM encrypted streams. Excellent experience o
 
 ### 🥈ProgTV
 
-This is a good player for Android, but doesn't open DRM encrypted streams.
+This is a good player for Android, but doesn't open DRM encrypted streams. Curiously this player can bypass geo-blocking of SIC channels.
 
 ![ProgTV screenshot](/images/ProgTV-M3UPT-playlist.avif "ProgTV screenshot")
 
