@@ -3795,7 +3795,7 @@ http://centova.radios.pt:9522/;
 http://centova.radios.pt:9492/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radioportuense.com/wp-content/uploads/2017/01/oie_dUXe4SR8xHI0.png",Rádio Portuense
-http://88.198.72.46:9848/;
+https://sp0.redeaudio.com:10905/stream;
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/0vmzhdz.png",Rádio Regional
 http://streaming.radioregional.pt:8002/;?type=http&nocache=1197
