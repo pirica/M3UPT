@@ -3657,7 +3657,7 @@ https://stream-hls.bauermedia.pt/cidlatina.aac/playlist.m3u8
 https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/q6clfyhqvcg5.png",Rádio Comercial Rock
-https://media1.mcr.iol.pt/wrcomercial/rcrock.stream/playlist.m3u8
+https://stream-hls.rayo.pt/rcrock.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ybykwjqku6rh.png",Rádio Comercial Dance
 https://stream-hls.bauermedia.pt/rcdance.aac/playlist.m3u8
@@ -3687,13 +3687,13 @@ https://stream-hls.bauermedia.pt/rcbest2000.aac/playlist.m3u8
 https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png",Rádio Mega Hits
-https://21313.live.streamtheworld.com/MEGA_HITSAAC
+https://29023.live.streamtheworld.com/MEGA_HITS_SC
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s81786/images/logod.png?t=155740",Rádio MEO Music
 http://centova.radios.pt:8495/;listen.pls
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiot.fi/img/channel-logos/radio-nostalgia.png",Rádio Nostalgia
-http://centova.radios.pt:8435
+https://azura.abcorp.es:8040/live
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radionovaera.pt/wp-content/uploads/2015/12/logo.png",Rádio Nova Era
 http://centova.radios.pt:9478
