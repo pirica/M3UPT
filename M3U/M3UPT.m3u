@@ -3696,10 +3696,10 @@ http://centova.radios.pt:8495/;listen.pls
 http://centova.radios.pt:8435
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radionovaera.pt/wp-content/uploads/2015/12/logo.png",Rádio Nova Era
-http://centova.radios.pt:9478/
+http://centova.radios.pt:9478
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://www.radionova.fm/wp-content/uploads/2023/05/cropped-favicon-180x180.png",Rádio Nova 98.9 FM - Porto
-http://centova.radio.com.pt:9528/
+http://centova.radio.com.pt:9528
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://observador.pt/wp-content/themes/observador-child/assets/build/img/apple-touch-icon.png",Rádio Observador
 https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR_ADP.m3u8
@@ -3747,7 +3747,7 @@ http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 https://stream-hls.bauermedia.pt/batidafm.aac/playlist.m3u8
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiomiudos.pt/img/logo2.png",Rádio Miúdos
-http://radiomiudos.out.airtime.pro:8000/radiomiudos_a
+https://s5.radio.co/s9c516a065/listen
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://media.rtp.pt/refresca/wp-content/themes/refresca/includes/img/logo_RadioZigZag.png",Rádio RTP Zig Zag
 https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
@@ -3756,13 +3756,13 @@ https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 https://sp0.redeaudio.com/8100/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Cascais.jpg",Rádio Cascais
-http://5.9.14.150:9300/;
+https://play.radioregional.pt:8220/stream/2/;/stream.mp3
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiocastelobranco.pt/css/site/img/logo.png",Rádio Castelo Branco
-http://centova.radio.com.pt:9462/;
+http://centova.radio.com.pt:9462
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radioclube-penafiel.pt/i/logo_radioclubepenafiel.png",Rádio Clube Penafiel
-http://centova.radios.pt:9476/;
+http://centova.radios.pt:9476
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.jm-madeira.pt/dist/images/JM_logo-01.png",JM Madeira
 http://194.38.136.130:8000/?type=http
@@ -3774,28 +3774,28 @@ http://85.25.73.243:10460/;stream/1
 http://213.136.92.8:8030/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiolinear.pt/img/logo.png",Rádio Linear
-http://213.136.92.8:8022/;
+https://nl.digitalrm.pt:8184/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.marcoensefm.com/wp-content/themes/marcoense-fm/images/logo.png",Marcoense FM
 http://137.74.160.250:8000/;stream/1
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/tHi5ewx.png",Rádio Monsanto
-http://centova.radio.com.pt:9424/;
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://player.yesstreaming.com/uploads/logos/1727175050_53334890f450a92b45ef.jpg",Rádio Monsanto
+https://s9.yesstreaming.net:9029/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://www.radio.net/images/broadcasts/79/00/29566/1/c300.png",Rádio Montemuro
-http://46.105.172.166:9304/;audio.mp3
+https://shoutcast.htt.pt:8060/radio.mp3
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radionoar.pt/wp-content/uploads/2017/02/Radio-NoAr_156.png",Rádio NoAr
-http://centova.radio.com.pt:9472/;
+https://radios3.justweb.pt:8026/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://nove3cinco.pt/sv/wp-content/uploads/2015/05/Nove3Cinco-Menu-Logo.png",Nove3Cinco
-http://centova.radios.pt:9522/;
+http://centova.radios.pt:9522
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.apradiodifusao.pt/xiiicongresso/images/radios/radioportalegre.png",Rádio Portalegre
 http://centova.radios.pt:9492/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radioportuense.com/wp-content/uploads/2017/01/oie_dUXe4SR8xHI0.png",Rádio Portuense
-http://88.198.72.46:9848/;
+https://sp0.redeaudio.com:10905/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/0vmzhdz.png",Rádio Regional
 http://streaming.radioregional.pt:8002
@@ -3819,7 +3819,7 @@ http://streaming.radioregional.pt:8052
 http://streaming.radioregional.pt:8040
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radioregionaldearouca.com/site/wp-content/uploads/2015/06/logo-radio1.png",Rádio Regional Arouca
-http://centova.radio.com.pt:8485/
+http://centova.radio.com.pt:8485/stream
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radiosines.sapo.pt/assets/dist/img/logo.png",Rádio Sines
 https://sp0.redeaudio.com/9580/stream
@@ -3834,16 +3834,13 @@ http://centova.radios.pt:9404/stream
 https://stream.ruc.pt/high
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-radiotime-logos.tunein.com/s3095d.png",Rádio Universitária do Minho
-https://centova.radio.com.pt/proxy/558?mp=/stream
+https://centova.radio.com.pt/proxy/558
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiovaledominho.com/wp-content/uploads/2017/09/logo_rvm-01.png",Rádio Vale do Minho
-http://centova.radio.com.pt:9434/;
+http://centova.radio.com.pt:9434
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://www.radio.pt/images/broadcasts/c5/77/38212/1/c300.png",Rádio Quântica
-https://stream.radioquantica.com:8443/stream
-
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s47489/images/logod.png",Rádio Zero
-https://stream.radiozero.pt/zero128.mp3
+https://libretime.radioquantica.com/main.mp3
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radioavfm.net/wp-content/uploads/2017/06/avfm-logo-horizontal.png,AVFM
 https://uk2.streamingpulse.com/ssl/radioavfm
