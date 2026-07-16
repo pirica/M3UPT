@@ -3798,28 +3798,28 @@ http://centova.radios.pt:9492/stream
 http://88.198.72.46:9848/;
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/0vmzhdz.png",Rádio Regional
-http://streaming.radioregional.pt:8002
+http://streaming.radioregional.pt:8002/;?type=http&nocache=1197
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/0vmzhdz.png",Rádio Regional [Alternativa]
-http://streaming.radioregional.pt:8000
+http://streaming.radioregional.pt:8000/;?type=http&nocache=326729
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/tKrKYOR.png",Rádio Regional Rock
-http://streaming.radioregional.pt:8046
+http://streaming.radioregional.pt:8046/;?type=http&nocache=1069
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/hUrEKgu.png",Rádio Regional Dance & DJS
-http://streaming.radioregional.pt:8064
+http://streaming.radioregional.pt:8064/;?type=http&nocache=1066
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/aPZ5joL.png",Rádio Regional Love Songs
-http://streaming.radioregional.pt:8058
+http://streaming.radioregional.pt:8058/;?type=http&nocache=1076
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/1zntJ9S.png",Rádio Regional Oldies
-http://streaming.radioregional.pt:8052
+http://streaming.radioregional.pt:8052/;?type=http&nocache=1092
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/x48qEMX.png",Rádio Regional Portuguesa
-http://streaming.radioregional.pt:8040
+http://streaming.radioregional.pt:8040/;?type=http&nocache=1117
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radioregionaldearouca.com/site/wp-content/uploads/2015/06/logo-radio1.png",Rádio Regional Arouca
-http://centova.radio.com.pt:8485/
+http://centova.radio.com.pt:8485/stream?type=http&nocache=18553
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radiosines.sapo.pt/assets/dist/img/logo.png",Rádio Sines
 https://sp0.redeaudio.com/9580/stream
@@ -3840,10 +3840,7 @@ https://centova.radio.com.pt/proxy/558?mp=/stream
 http://centova.radio.com.pt:9434/;
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://www.radio.pt/images/broadcasts/c5/77/38212/1/c300.png",Rádio Quântica
-https://stream.radioquantica.com:8443/stream
-
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s47489/images/logod.png",Rádio Zero
-https://stream.radiozero.pt/zero128.mp3
+https://libretime.radioquantica.com/main.mp3
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radioavfm.net/wp-content/uploads/2017/06/avfm-logo-horizontal.png,AVFM
 https://uk2.streamingpulse.com/ssl/radioavfm
