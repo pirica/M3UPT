@@ -1878,6 +1878,9 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 
 # Eixo do Mal
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 16/7/2026
+https://videos.impresa.pt/videos/hls/sicnot/2026/07/16/3bd9eecc-1de9-4666-bdd6-870d1702f293/video.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 9/7/2026
 https://videos.impresa.pt/videos/hls/sicnot/2026/07/09/19c37c48-29ba-4da4-9f4c-226dd5cb2c6e/video.m3u8
 
