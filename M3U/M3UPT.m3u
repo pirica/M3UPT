@@ -597,34 +597,31 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Akaku55.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-3.png",Akaku TV 3
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 
-
-# Ficção
-
-#EXTINF:-1 group-title="Ficção" tvg-id="KuriakosTV.pt" tvg-logo="http://www.kuriakos-tv.com/img/logo.png",Kuriakos TV
+#EXTINF:-1 group-title="TV" tvg-id="KuriakosTV.pt" tvg-logo="http://www.kuriakos-tv.com/img/logo.png",Kuriakos TV
 https://w1.manasat.com/ktv/ktv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Ficção" tvg-id="KuriakosCine.pt" tvg-logo="https://kuriakos-cine.com/wp-content/uploads/2022/11/Logo_cine.png",Kuriakos Cine
+#EXTINF:-1 group-title="TV" tvg-id="KuriakosCine.pt" tvg-logo="https://kuriakos-cine.com/wp-content/uploads/2022/11/Logo_cine.png",Kuriakos Cine
 https://w2.manasat.com/kcine/kcine.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Ficção" tvg-id="KuriakosKids.pt" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2023/06/KuriakosKids_curvas.jpg",Kuriakos Kids
+#EXTINF:-1 group-title="TV" tvg-id="KuriakosKids.pt" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2023/06/KuriakosKids_curvas.jpg",Kuriakos Kids
 https://w2.manasat.com/kkids/kkids.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Ficção" tvg-id="KuriakosMusic.pt" tvg-logo="https://kuriakosmusic.com/wp-content/uploads/2026/04/Logo_KuriakosMusic_V2_White.png",Kuriakos Music
+#EXTINF:-1 group-title="TV" tvg-id="KuriakosMusic.pt" tvg-logo="https://kuriakosmusic.com/wp-content/uploads/2026/04/Logo_KuriakosMusic_V2_White.png",Kuriakos Music
 https://w2.manasat.com/kmusic/kmusic.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Ficção" tvg-id="TVCancaoNova.pt" tvg-logo="https://tv.cancaonova.pt/wp-content/uploads/2016/01/logo_cn_radio.png",Canção Nova
+#EXTINF:-1 group-title="TV" tvg-id="TVCancaoNova.pt" tvg-logo="https://tv.cancaonova.pt/wp-content/uploads/2016/01/logo_cn_radio.png",Canção Nova
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Ficção" tvg-id="TVMana1.pt" tvg-logo="https://i.imgur.com/6jNqpTP.png",TV Maná 1
+#EXTINF:-1 group-title="TV" tvg-id="TVMana1.pt" tvg-logo="https://i.imgur.com/6jNqpTP.png",TV Maná 1
 https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Ficção" tvg-id="TVMana2.pt" tvg-logo="https://i.imgur.com/VYNjVov.png",TV Maná 2
+#EXTINF:-1 group-title="TV" tvg-id="TVMana2.pt" tvg-logo="https://i.imgur.com/VYNjVov.png",TV Maná 2
 https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Ficção" tvg-id="TVManaBrasil.pt" tvg-logo="https://i.imgur.com/AFb712e.png",TV Maná Brasil
+#EXTINF:-1 group-title="TV" tvg-id="TVManaBrasil.pt" tvg-logo="https://i.imgur.com/AFb712e.png",TV Maná Brasil
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Ficção" tvg-id="TVManaMocambique.mz" tvg-logo="https://i.imgur.com/R5YrV5s.png",TV Maná Moçambique
+#EXTINF:-1 group-title="TV" tvg-id="TVManaMocambique.mz" tvg-logo="https://i.imgur.com/R5YrV5s.png",TV Maná Moçambique
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
 
 
